@@ -2,7 +2,7 @@ function letSmile() {
   var emoji = document.getElementById("emoji");
   if ((emoji = "&#128551;")) {
     // console.log(emoji);
-    document.getElementById("emoji").innerHTML = "&#128513;" + "<br> ยิ้มแย้วว อิ้อิ้";
+    document.getElementById("emoji").innerHTML = "&#128513;" + "<br> ยิ้มแย้วว อิอิ";
     var changeEmoji = setTimeout(painedEmoji, 5000);
   }
 }
