@@ -1,0 +1,10 @@
+@import url('https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@6/fonts/Mali/Mali.css');
+body {
+  font-family: 'Mali', cursive;
+  font-size: 70px;
+}
+
+button {
+  font-family: 'Mali', cursive;
+  font-size: 30px;
+}
